@@ -176,8 +176,6 @@ CGFloat tableViewOffset = 70;
 
 @end
 
-// it will be deleted within all of this coding efforts
-// i don't like this one because of his manners
 
 
 
